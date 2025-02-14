@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main() { // Решается перебором всех вариантов с помощью тройного вложенного цикла...Попробуй =)
     int n;
     printf("Type number of people: ");
     scanf("%d", &n);
